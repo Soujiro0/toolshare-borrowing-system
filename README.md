@@ -43,9 +43,3 @@ The client struggled with tracking shared physical assets, resulting in lost equ
   <img src="assets/app-screenshot-5.png" width="45%" alt="Transaction Logs" />
   <img src="assets/app-screenshot-6.png" width="45%" alt="Admin Dashboard" />
 </p>
-"""
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("README.md updated.")
