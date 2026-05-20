@@ -1,4 +1,8 @@
-# Toolshare - Tools & Equipment Borrowing System
+<div align="center">
+  <img src="assets/logo.png" width="150" alt="Toolshare Logo" />
+  <h1>🧰 Toolshare - Tools & Equipment Borrowing System</h1>
+</div>
+
 > **Note:** The source code for this repository is private as the system was successfully completed and handed over to the client. This repository serves as an architectural overview and case study of the project.
 
 Toolshare is a comprehensive asset borrowing platform designed to streamline equipment checkout, enforce user accountability, and automate return reminders. It served as my flagship capstone project.
@@ -24,4 +28,24 @@ The client struggled with tracking shared physical assets, resulting in lost equ
 **Completed & Handed Over.** I managed the full software development lifecycle for this project—from initial client scoping and technical roadmapping to the final production deployment and client handover.
 
 ## 📸 System Previews
-*(Upload screenshots of the borrowing interface, the user dashboard, or the admin view to the repository and link them here!)*
+
+<p align="center">
+  <img src="assets/app-screenshot-1.png" width="45%" alt="Toolshare Dashboard" />
+  <img src="assets/app-screenshot-2.png" width="45%" alt="Inventory Management" />
+</p>
+
+<p align="center">
+  <img src="assets/app-screenshot-3.png" width="45%" alt="Borrowing Interface" />
+  <img src="assets/app-screenshot-4.png" width="45%" alt="User Accountability" />
+</p>
+
+<p align="center">
+  <img src="assets/app-screenshot-5.png" width="45%" alt="Transaction Logs" />
+  <img src="assets/app-screenshot-6.png" width="45%" alt="Admin Dashboard" />
+</p>
+"""
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README.md updated.")
