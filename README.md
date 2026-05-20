@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" width="150" alt="Toolshare Logo" />
-  <h1>🧰 Toolshare - Tools & Equipment Borrowing System</h1>
+  <h1>Toolshare - Tools & Equipment Borrowing System</h1>
 </div>
 
 > **Note:** The source code for this repository is private as the system was successfully completed and handed over to the client. This repository serves as an architectural overview and case study of the project.
